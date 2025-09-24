@@ -1,3 +1,9 @@
+# Exercício - HTML & CSS básico
+
+Exercício #1 da semana #2, de nome "Corrigindo bugs (01)". Parte do curso "Explorer", da plataforma de ensino Rocketseat.
+
+Este exercício é focado nos conceitos básicos das linguagens HTML e CSS, construindo uma simples página web.
+
 # Exercise - HTML & CSS 101
 
 Exercise #1 from Week #2, named "Corrigindo bugs (01)". Part of the program "Explorer", from the online platform Rocketseat.
@@ -5,7 +11,7 @@ Exercise #1 from Week #2, named "Corrigindo bugs (01)". Part of the program "Exp
 This exercise is focused on the basics of the languages HTML and CSS, constructing a simple web page.
 
 
-## Tools used in this project
+## Ferramentas utilizadas | Tools used in this project
 
 - HTML
 - CSS
